@@ -1,0 +1,14 @@
+{
+    "name": "h1/postcodecheckout",
+    "config": {
+        "platform": {
+            "php": "7.2"
+        }
+    },
+    "authors": [
+        {
+            "name": "PrestaShop"
+        }
+    ],
+    "type": "prestashop-module"
+}
